@@ -1,10 +1,7 @@
 # kagex-info
 
-存放和 吉里吉里/KAG(EX) 相关的东西，包括不限于
+This repo contains some infomation, issues, wiki, tutorials, scripts about Kirikiri(2/Z)KAG/KAGEX.
 
-- 特定 bug 修复方法（看 issue 或者会放出 .tjs 文件）
-- 一些使用说明文档，教程。（本着怎么方便怎么来，主要是片段示例代码+ markdown 文档，估计。）
+Mostly write in English language, some in Chinese.
 
-慢慢填坑。（主要是怕忘记怎么做，然后也可能会对其他人有帮助，本身中文可参考的相关资料就不是太多，以上。）
-
-2017/02/23 小笠原 やきん（yaqinking）
+For common problems see this project's wiki page.
